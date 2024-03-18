@@ -1,3 +1,11 @@
+
+Hello, Im Saranya from chennai .im Passionate About Self Learning thorught out my 3 month journey i learned lot of front end technologies.....this is my 2nd project of react ...inspired by Geeks for geeks Platform..
+
+this  shopping cart project enhance my capablities of my learning process 
+thank u ,
+code eat sleep repeat .... to be cotinued in smart projects
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
